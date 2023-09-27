@@ -1,3 +1,5 @@
+# Discord Scraper
+Interested in using this scraper? Get it here: [Discord Scraper](https://apify.com/curious_coder/discord-data-scraper)
 ### Important points to consider when using this actor
 1. You can save costs by configuring this actor to run on low memory, as low as 512MB. Increasing memory won't make it faster or better.
 2. If the actor stops before scraping all records due to unexpected error, you can simply ressurect the actor to resume scraping.
